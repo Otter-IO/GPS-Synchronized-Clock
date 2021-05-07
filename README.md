@@ -7,3 +7,4 @@ The code is written in Verilog and is split into multiple modules to allow for e
 
 The code is by no means perfect. I’m still learning Verilog and there are certainly optimizations that could be made, especially with the SDC timing file. If you have more experience with FPGAs feel free to improve the design.
 
+See the final product on YouTube: https://www.youtube.com/watch?v=TpDHRGk3vro
